@@ -12,7 +12,7 @@ const Attributes = {
     allowNull: false,
   },
   birthday: {
-    type: DataTypes.DATE,
+    type: DataTypes.STRING,
     allowNull: false,
   },
   image: {
