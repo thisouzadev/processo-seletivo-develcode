@@ -18,6 +18,7 @@ const Attributes = {
   image: {
     type: DataTypes.STRING,
     allowNull: false,
+    defaultValue: '',
   },
 };
 
