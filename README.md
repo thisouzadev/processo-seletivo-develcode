@@ -105,7 +105,7 @@ PORT=3000
 `
  
 4. rode a aplicação
-- npm run prestart 
+5.  
 - npm start
 
 
