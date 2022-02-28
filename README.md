@@ -16,12 +16,13 @@ Este projeto visa a criação para desenvolver um sistema capaz de auxiliar as p
 
 ### Feito Com
 
-Abaixo segue o que foi utilizado na criação deste template:
+Abaixo segue o que foi utilizado na criação desta API:
 
 - [Node.js](https://nodejs.org/en/) 
 - [Express](https://expressjs.com/pt-br/) 
 - [MySQL](https://www.mysql.com/) 
 - [sequelize-ORM](https://sequelize.org/) 
+- [Multer](https://github.com/expressjs/multer) 
 
 
 <!-- GETTING STARTED -->
@@ -33,8 +34,8 @@ Para conseguir utilizar a API, através da sua IDE, siga os passos abaixo.
 ### Pré-requisitos
 
 Antes de seguirmos para as configurações e uso da API, é ideal que você tenha o ambiente configurado para usar a API, para isso você deve instalar: <br /> 
-1. mysql
-2. NodeJs
+1. [MySQL](https://www.mysql.com/) 
+2. [Node.js](https://nodejs.org/en/) 
 
 ### Estrutura de Arquivos
 
@@ -49,7 +50,8 @@ processo-seletivo-develcode/
 │   ├── controllers/
 │   │   └── userControler.js 
 │   ├── database/
-│   │   ├── config config;js
+│   │   ├── config 
+│   │   │     └── config;js
 │   │   ├── migrations/
 │   │   │     └──   20220227175528-create-users.js
 │   │   ├── models/
@@ -92,6 +94,7 @@ Para instalar e utilizar essa API o processo é bem simples, basta clonar o repo
 2. Instale as dependências
 
 - `npm install`
+- Por padrão, essa aplicação funciona a partir da porta `3000`;
 
 3. crie as variaveis de ambiente exemplo:
 
@@ -103,8 +106,8 @@ PORT=3000
 `
  
 4. rode a aplicação
-- npm run prestart 
-- npm start
+- `npm run prestart`  
+- `npm start` ou `npm run dev`
 
 
 
@@ -136,6 +139,9 @@ PUT http://localhost:3000/register/:d/image
 
 - image e o File
 
+3. visualizar todos os usuários
+
+GET http://localhost:3000/user
 
 <!-- CONTACT -->
 
