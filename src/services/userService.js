@@ -21,8 +21,11 @@ const createUserService = async (name, birthday) => {
 };
 const uploadImageMulter = async (id, image) => {
   console.log(image);
-  await users.update({
-    image: `localhost:3000/src/uploads/${image}`}, {where: {id}},
+  await users.update(
+      {
+        image: `localhost:3000/src/uploads/${image}`,
+      },
+      {where: {id}},
   );
   const user = await users.findByPk(id);
   if (!users) throw errorConstructor(notFound, 'User does not exist');
