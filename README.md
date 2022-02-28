@@ -12,7 +12,11 @@
 
 ## Sobre o Projeto
 
-Este projeto visa a criação para desenvolver um sistema capaz de auxiliar as pessoas colaboradoras a se organizar e ter mais produtividade.
+Cadastro de usuários contendo os campos:
+
+- Nome
+- Data de nascimento
+- Foto
 
 ### Feito Com
 
@@ -98,12 +102,16 @@ Para instalar e utilizar essa API o processo é bem simples, basta clonar o repo
 
 3. crie as variaveis de ambiente exemplo:
 
-`
-MYSQL_USER=root
-MYSQL_PASSWORD=MinhaSEnha
-HOSTNAME=localhost
-PORT=3000
-`
+<ul>
+<li>MYSQL_USER=root</li>
+<li>MYSQL_PASSWORD=MinhaSEnha</li>
+<li>HOSTNAME=localhost</li>
+<li>PORT=3000</li>
+</ul>
+
+
+
+
  
 4. rode a aplicação
 - `npm run prestart`  
