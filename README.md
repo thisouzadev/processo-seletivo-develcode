@@ -50,7 +50,8 @@ processo-seletivo-develcode/
 │   ├── controllers/
 │   │   └── userControler.js 
 │   ├── database/
-│   │   ├── config config;js
+│   │   ├── config 
+│   │   │     └── config;js
 │   │   ├── migrations/
 │   │   │     └──   20220227175528-create-users.js
 │   │   ├── models/
