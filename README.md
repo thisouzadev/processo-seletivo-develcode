@@ -100,9 +100,9 @@ Para instalar e utilizar essa API o processo é bem simples, basta clonar o repo
 
 
 MYSQL_USER=root\
-MYSQL_PASSWORD=MinhaSEnha\  
-HOSTNAME=localhost\  
-PORT=3000\  
+MYSQL_PASSWORD=MinhaSEnha\
+HOSTNAME=localhost\
+PORT=3000\
 
  
 4. rode a aplicação
