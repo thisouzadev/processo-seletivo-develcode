@@ -34,8 +34,8 @@ Para conseguir utilizar a API, através da sua IDE, siga os passos abaixo.
 ### Pré-requisitos
 
 Antes de seguirmos para as configurações e uso da API, é ideal que você tenha o ambiente configurado para usar a API, para isso você deve instalar: <br /> 
-1. mysql
-2. NodeJs
+1. [MySQL](https://www.mysql.com/) 
+2. [Node.js](https://nodejs.org/en/) 
 
 ### Estrutura de Arquivos
 
