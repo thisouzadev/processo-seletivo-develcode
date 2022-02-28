@@ -85,7 +85,7 @@ src/
 
 ### Instalação
 
-1. Para instalar e utilizar essa API o processo é bem simples, basta clonar o repositorio com o comando :
+Para instalar e utilizar essa API o processo é bem simples, basta clonar o repositorio com o comando :
 
 1. Clone o repositório
 
@@ -98,7 +98,7 @@ src/
 
 - `npm install`
 
-2. crie as variaveis de ambiente exemplo:
+3. crie as variaveis de ambiente exemplo:
 
 `
 MYSQL_USER=root
@@ -107,7 +107,7 @@ HOSTNAME=localhost
 PORT=3000
 `
  
-3. rode a aplicação
+4. rode a aplicação
 - npm run prestart 
 - npm start
 
