@@ -138,6 +138,9 @@ PUT http://localhost:3000/register/:d/image
 
 - image e o File
 
+3. visualizar todos os usuários
+
+GET http://localhost:3000/user
 
 <!-- CONTACT -->
 
