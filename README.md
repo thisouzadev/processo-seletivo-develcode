@@ -93,6 +93,7 @@ Para instalar e utilizar essa API o processo é bem simples, basta clonar o repo
 2. Instale as dependências
 
 - `npm install`
+- Por padrão, essa aplicação funciona a partir da porta `3000`;
 
 3. crie as variaveis de ambiente exemplo:
 
