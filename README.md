@@ -16,7 +16,7 @@ Este projeto visa a criação para desenvolver um sistema capaz de auxiliar as p
 
 ### Feito Com
 
-Abaixo segue o que foi utilizado na criação deste template:
+Abaixo segue o que foi utilizado na criação desta API:
 
 - [Node.js](https://nodejs.org/en/) 
 - [Express](https://expressjs.com/pt-br/) 
