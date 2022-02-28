@@ -18,10 +18,8 @@ Este projeto visa a criação para desenvolver um sistema capaz de auxiliar as p
 
 Abaixo segue o que foi utilizado na criação deste template:
 
-- [MongoDb](https://www.mongodb.com/pt-br) - Os bancos de dados NoSQL vêm em uma variedade de tipos, incluindo bancos de dados de documentos, bancos de dados de valores-chave, armazenamentos de colunas amplas e bancos de dados de gráficos. MongoDB é o banco de dados NoSQL mais popular do mundo;
-- [Node.js](https://nodejs.org/en/) - O Node. js se caracteriza como um ambiente de execução JavaScript. Com ele, o usuário pode criar aplicações sem depender do browser para isso;
-- [Express](https://expressjs.com/pt-br/) - 
-Express é um popular framework web estruturado, escrito em JavaScript que roda sobre o ambiente node. js em tempo de execução. Este módulo explica alguns dos principais benefícios deste framework, como configurar o seu ambiente de desenvolvimento e como executar tarefas comuns de desenvolvimento e implantação da web.
+- [Node.js](https://nodejs.org/en/) 
+- [Express](https://expressjs.com/pt-br/) 
 
 
 <!-- GETTING STARTED -->
