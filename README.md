@@ -41,8 +41,8 @@ Antes de seguirmos para as configurações e uso da API, é ideal que você tenh
 A estrutura de arquivos está da seguinte maneira:
 
 ```bash
-
-src/
+processo-seletivo-develcode/
+├── src/
 │   ├── api/
 │   │   ├── app.js
 │   │   └── server.js
@@ -130,7 +130,7 @@ Contribuições são o que fazem a comunidade open source um lugar incrível par
 
 1. registra o usuário
 
-POST http://localhost:3000/register
+POST http://localhost:3000/register 
 {
 	"name": "thiago",	"birthday": "02/10/1991"
 }
