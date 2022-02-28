@@ -22,6 +22,7 @@ Abaixo segue o que foi utilizado na criação deste template:
 - [Express](https://expressjs.com/pt-br/) 
 - [MySQL](https://www.mysql.com/) 
 - [sequelize-ORM](https://sequelize.org/) 
+- [Multer](https://github.com/expressjs/multer) 
 
 
 <!-- GETTING STARTED -->
