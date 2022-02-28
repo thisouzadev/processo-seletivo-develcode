@@ -89,7 +89,7 @@ src/
 
 1. Clone o repositório
 
-- `git clone git@github.com:thisouzadev/processo-seletivo-Ebytr.git`.
+- `https://github.com/thisouzadev/processo-seletivo-develcode`.
 
 - Entre na pasta do repositório que você acabou de clonar:
  
