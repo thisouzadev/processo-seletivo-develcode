@@ -89,7 +89,7 @@ src/
 
 1. Clone o repositório
 
-- `https://github.com/thisouzadev/processo-seletivo-develcode`.
+- `https://github.com/thisouzadev/processo-seletivo-develcode`
 
 - Entre na pasta do repositório que você acabou de clonar:
  
