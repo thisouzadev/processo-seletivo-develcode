@@ -57,24 +57,24 @@ processo-seletivo-develcode/
 │   │   ├── config 
 │   │   │     └── config;js
 │   │   ├── migrations/
-│   │   │     └──   20220227175528-create-users.js
+│   │   │     └── 20220227175528-create-users.js
 │   │   ├── models/
 │   │   │     ├── index.js
-│   │   │     └──User.js
+│   │   │     └── User.js
 │   │   └──  seeders/ 
 │   │         └── 20220227175819-users.js
 │   │   
 │   ├── routes/
 │   │   └── index.js
 │   ├── services/
-│   │   ├── integration 
-│   │   │   └── controllers
+│   │   ├── integration/ 
+│   │   │   └── controllers/
 │   │   │        └── user.test.js
-│   │   └── unit
-│   │       └── models
+│   │   └── unit/
+│   │       └── models/
 │   │            └── user.test.js 
 │   ├── tests/
-│       ├── dictionary/
+│   │    ├── dictionary/
 │   ├── uploads/
 │   └── utils/
 │       ├── dictionary/
