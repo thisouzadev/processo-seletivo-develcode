@@ -20,6 +20,8 @@ Abaixo segue o que foi utilizado na criação deste template:
 
 - [Node.js](https://nodejs.org/en/) 
 - [Express](https://expressjs.com/pt-br/) 
+- [MySQL](https://www.mysql.com/) 
+- [sequelize-ORM](https://sequelize.org/) 
 
 
 <!-- GETTING STARTED -->
