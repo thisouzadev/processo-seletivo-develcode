@@ -98,11 +98,15 @@ Para instalar e utilizar essa API o processo é bem simples, basta clonar o repo
 
 3. crie as variaveis de ambiente exemplo:
 
+<ul>
+<li>MYSQL_USER=root</li>
+<li>MYSQL_PASSWORD=MinhaSEnha</li>
+<li>HOSTNAME=localhost</li>
+<li>PORT=3000</li>
+</ul>
 
-MYSQL_USER=root\
-MYSQL_PASSWORD=MinhaSEnha\
-HOSTNAME=localhost\
-PORT=3000\
+
+
 
  
 4. rode a aplicação
