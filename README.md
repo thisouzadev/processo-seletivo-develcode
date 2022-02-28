@@ -12,7 +12,11 @@
 
 ## Sobre o Projeto
 
-Este projeto visa a criação para desenvolver um sistema capaz de auxiliar as pessoas colaboradoras a se organizar e ter mais produtividade.
+Cadastro de usuários contendo os campos:
+
+- Nome
+- Data de nascimento
+- Foto
 
 ### Feito Com
 
