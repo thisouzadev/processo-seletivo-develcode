@@ -55,26 +55,21 @@ processo-seletivo-develcode/
 │   │   ├── models/
 │   │   │     ├── index.js
 │   │   │     └──User.js
-│   │   └──  seeders 
+│   │   └──  seeders/ 
 │   │         └── 20220227175819-users.js
 │   │   
 │   ├── routes/
 │   │   └── index.js
 │   ├── services/
-│   │   ├── connection.js
-│   │   ├── taskModel.js
-│   │   └── usersModel.js
-│   ├── routes/
-│   │   └── index.js
-│   ├── services/
 │   │   └── userServices.js  
+│   ├── tests/
+│   ├── uploads/
 │   └── utils/
 │       ├── dictionary/
 │       │   └── statusCode.js
 │       └── functions/
-│          └── errorHandling.js
+│           └── errorHandling.js
 │   
-├── tests/
 ├── .eslintrc.js
 ├── .gitignore
 ├── .sequelizerc
