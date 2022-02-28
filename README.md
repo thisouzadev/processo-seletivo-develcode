@@ -67,14 +67,14 @@ processo-seletivo-develcode/
 │   ├── routes/
 │   │   └── index.js
 │   ├── services/
+│   │   └── userServices.js   
+│   ├── tests/
 │   │   ├── integration/ 
 │   │   │   └── controllers/
 │   │   │        └── user.test.js
 │   │   └── unit/
 │   │       └── models/
 │   │            └── user.test.js 
-│   ├── tests/
-│   │    ├── dictionary/
 │   ├── uploads/
 │   └── utils/
 │       ├── dictionary/
